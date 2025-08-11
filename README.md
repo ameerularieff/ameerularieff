@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
     
 <h2>📄 Certifications</h2>
-- [ISC2 Certified in Cybersecurity](www.isc2.com)
+- [ISC2 Certified in Cybersecurity](certifications/ISC2 CC Certificate.pdf)
 
 <h2>📺 Popular YouTube Videos</h2>
 
